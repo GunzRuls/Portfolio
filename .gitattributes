@@ -1,0 +1,14 @@
+*MP4 filter=lfs diff=lfs merge=lfs -text
+Exercise[[:space:]]3,[[:space:]]modified.mp4 filter=lfs diff=lfs merge=lfs -text
+Exercise[[:space:]]3.mp4 filter=lfs diff=lfs merge=lfs -text
+Exercise[[:space:]]5.mp4 filter=lfs diff=lfs merge=lfs -text
+Exercise[[:space:]]6[[:space:]]vid.mp4 filter=lfs diff=lfs merge=lfs -text
+Exercise[[:space:]]part[[:space:]]2.mp4 filter=lfs diff=lfs merge=lfs -text
+Car[[:space:]]Game.mp4 filter=lfs diff=lfs merge=lfs -text
+Chapter[[:space:]]5.1[[:space:]]vid.mp4 filter=lfs diff=lfs merge=lfs -text
+Chapter[[:space:]]5.2[[:space:]]vid.mp4 filter=lfs diff=lfs merge=lfs -text
+Final[[:space:]]UI.mp4 filter=lfs diff=lfs merge=lfs -text
+Lab[[:space:]]4[[:space:]]Vid.mp4 filter=lfs diff=lfs merge=lfs -text
+Unity[[:space:]]Review[[:space:]]Ch.[[:space:]]1[[:space:]]Video[[:space:]]Assignment.mp4 filter=lfs diff=lfs merge=lfs -text
+Lab[[:space:]]2.mp4 filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]Midterm.mp4 filter=lfs diff=lfs merge=lfs -text
